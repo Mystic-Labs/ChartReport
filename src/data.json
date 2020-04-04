@@ -1,0 +1,71 @@
+[
+  {
+    "filial": "ALG SM",
+    "fornecedor": "ACOCIL COMERCIO E INDUSTRIA DE FERRO E ACO LTDA",
+    "valor": "10000",
+    "pago": "10000",
+    "data_lanc": "09/05/2019"
+  },
+  {
+    "filial": "ALG SM",
+    "fornecedor": "ALGODOEIRA E AGROPECUARIA RUFINO LTDA",
+    "valor": "13398",
+    "pago": "10000",
+    "data_lanc": "30/10/2019"
+  },
+  {
+    "filial": "ALG SM",
+    "fornecedor": "ALGODOEIRA E AGROPECUARIA RUFINO LTDA",
+    "valor": "14397",
+    "pago": "10000",
+    "data_lanc": "22/04/2019"
+  },
+  {
+    "filial": "ALG SM",
+    "fornecedor": "ALGODOEIRA E AGROPECUARIA RUFINO LTDA",
+    "valor": "13440",
+    "pago": "07/12/2019"
+  },
+  {
+    "filial": "ALG SM",
+    "fornecedor": "ALGODOEIRA E AGROPECUARIA RUFINO LTDA",
+    "valor": "949",
+    "pago": "800",
+    "data_lanc": "21/02/2019"
+  },
+  {
+    "filial": "ALG SM",
+    "fornecedor": "ALGODOEIRA E AGROPECUARIA RUFINO LTDA",
+    "valor": "2100",
+    "pago": "400",
+    "data_lanc": "17/05/2019"
+  },
+  {
+    "filial": "ALG SM",
+    "fornecedor": "ALGODOEIRA E AGROPECUARIA RUFINO LTDA",
+    "valor": "15321",
+    "pago": "12700",
+    "data_lanc": "11/11/2019"
+  },
+  {
+    "filial": "ALG SM",
+    "fornecedor": "ALGODOEIRA E AGROPECUARIA RUFINO LTDA",
+    "valor": "5976",
+    "pago": "5976",
+    "data_lanc": "12/11/2019"
+  },
+  {
+    "filial": "ALG SM",
+    "fornecedor": "ALGODOEIRA E AGROPECUARIA RUFINO LTDA",
+    "valor": "195624",
+    "pago": "187000",
+    "data_lanc": "16/10/2019"
+  },
+  {
+    "filial": "ALG SM",
+    "fornecedor": "ALGODOEIRA E AGROPECUARIA RUFINO LTDA",
+    "valor": "158904",
+    "pago": "150000",
+    "data_lanc": "17/12/2019"
+  }
+]
