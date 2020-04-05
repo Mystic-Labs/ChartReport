@@ -10,10 +10,14 @@ export default function PizzaChartReport() {
   const json = jsonData;
 
   useEffect(() => {
+    let paidTemp = 0;
+    let unpaidTemp = 0;
     json.map((companyData) => {
-      setPaid(paid + companyData.pago);
-      setUnpaid(unpaid + (companyData.valor - companyData.pago));
+      paidTemp += companyData.pago;
+      unpaidTemp += companyData.valor - companyData.pago;
     });
+    setPaid(paidTemp);
+    setUnpaid(unpaidTemp);
   }, []);
 
   const data = [
