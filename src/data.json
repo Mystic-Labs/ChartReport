@@ -4,68 +4,69 @@
     "fornecedor": "ACOCIL COMERCIO E INDUSTRIA DE FERRO E ACO LTDA",
     "valor": "10000",
     "pago": "10000",
-    "data_lanc": "09/05/2019"
+    "data_lanc": "2019-05-09T00:00:00+00:00"
   },
   {
     "filial": "ALG SM",
     "fornecedor": "ALGODOEIRA E AGROPECUARIA RUFINO LTDA",
     "valor": "13398",
     "pago": "10000",
-    "data_lanc": "30/10/2019"
+    "data_lanc": "2019-10-30T00:00:00+00:00"
   },
   {
     "filial": "ALG SM",
     "fornecedor": "ALGODOEIRA E AGROPECUARIA RUFINO LTDA",
     "valor": "14397",
     "pago": "10000",
-    "data_lanc": "22/04/2019"
+    "data_lanc": "2019-04-22T00:00:00+00:00"
   },
   {
     "filial": "ALG SM",
     "fornecedor": "ALGODOEIRA E AGROPECUARIA RUFINO LTDA",
     "valor": "13440",
-    "pago": "07/12/2019"
+    "pago": "13000",
+    "data_lanc": "2019-12-07T00:00:00+00:00"
   },
   {
     "filial": "ALG SM",
     "fornecedor": "ALGODOEIRA E AGROPECUARIA RUFINO LTDA",
     "valor": "949",
     "pago": "800",
-    "data_lanc": "21/02/2019"
+    "data_lanc": "2019-02-21T00:00:00+00:00"
   },
   {
     "filial": "ALG SM",
     "fornecedor": "ALGODOEIRA E AGROPECUARIA RUFINO LTDA",
     "valor": "2100",
     "pago": "400",
-    "data_lanc": "17/05/2019"
+    "data_lanc": "2019-05-17T00:00:00+00:00"
   },
   {
     "filial": "ALG SM",
     "fornecedor": "ALGODOEIRA E AGROPECUARIA RUFINO LTDA",
     "valor": "15321",
     "pago": "12700",
-    "data_lanc": "11/11/2019"
+    "data_lanc": "2019-11-11T00:00:00+00:00"
   },
   {
     "filial": "ALG SM",
     "fornecedor": "ALGODOEIRA E AGROPECUARIA RUFINO LTDA",
     "valor": "5976",
     "pago": "5976",
-    "data_lanc": "12/11/2019"
+    "data_lanc": "2019-11-12T00:00:00+00:00"
   },
   {
     "filial": "ALG SM",
     "fornecedor": "ALGODOEIRA E AGROPECUARIA RUFINO LTDA",
     "valor": "195624",
     "pago": "187000",
-    "data_lanc": "16/10/2019"
+    "data_lanc": "2019-10-16T00:00:00+00:00"
   },
   {
     "filial": "ALG SM",
     "fornecedor": "ALGODOEIRA E AGROPECUARIA RUFINO LTDA",
     "valor": "158904",
     "pago": "150000",
-    "data_lanc": "17/12/2019"
+    "data_lanc": "2019-12-17T00:00:00+00:00"
   }
 ]
